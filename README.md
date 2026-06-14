@@ -4,7 +4,6 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br>
 <h1> RAWAN MOHAMMED web creator </h1>
 
-
 <details>
 <p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
 
